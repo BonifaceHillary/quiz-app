@@ -7,7 +7,6 @@ const saveScoreBtn = document.getElementById("saveScoreBtn");
  const mostRecentScore = localStorage.getItem("mostRecentScore");
 
  const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
-//  console.log(highScores);
 
  const MAX_HIGH_SCORES = 5;
  console.log(highScores);
