@@ -48,7 +48,6 @@ let questions = [];
   //   choice2: "alertBox('Hello World');",
   //   choice3: "msg('Hello World');",
   //   choice4: "alert('Hello World');",
-  //   answer: 4,
   // },  
 
 fetch(
