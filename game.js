@@ -45,7 +45,7 @@ let questions = [];
   // {
   //   question: " how do you write 'Hello wolrd' in an alert box",
   //   choice1: "msgBox('Hello World');",
-  //   choice2: "alertBox
+  //   choice2:
   
   // },  
 
