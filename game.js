@@ -47,7 +47,7 @@ let questions = [];
   //   choice1: "msgBox('Hello World');",
   //   choice2: "alertBox('Hello World');",
   //   choice3: "msg('Hello World');",
-  //   choice4:
+  
   // },  
 
 fetch(
