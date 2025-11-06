@@ -43,7 +43,7 @@ let questions = [];
   // },
 
   // {
-  //   question: " how do you write 'Hello wolrd' in an alert
+  //   question: " how do you write 'Hello wolrd' in an 
   
   // },  
 
