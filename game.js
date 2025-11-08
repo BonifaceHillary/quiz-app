@@ -43,7 +43,7 @@ let questions = [];
   // },
 
   // {
-  //   question: " how do you 
+  //   question: " how do
   
   // },  
 
