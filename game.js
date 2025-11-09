@@ -38,7 +38,6 @@ let questions = [];
   //   choice1: "<script href='xxx.js'>",
   //   choice2: "<script name='xxx.js'>",
   //   choice3: "<script src='xxx.js'>",
-  //   choice4:
   // },
   
   // },  
