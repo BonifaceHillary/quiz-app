@@ -29,7 +29,6 @@ let questions = [];
   //   choice2: "<javascript>",
   //   choice3: "<js>",
   //   choice4: "<scripting>",
-  //   answer: 1,
   // },
 
   // {
