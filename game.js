@@ -39,7 +39,6 @@ let questions = [];
   //   choice2: "<script name='xxx.js'>",
   //   choice3: "<script src='xxx.js'>",
   //   choice4: "<script file='xxx.js'>",
-  //   answer: 3,
   // },
   
   // },  
