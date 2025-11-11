@@ -35,7 +35,7 @@ let questions = [];
   //   question:
   //     "what is the correct syntax for refering to an external script called 'xxx.js'?",
   //   choice1: "<script href='xxx.js'>",
-  //   choice2: "<script name=
+  //   choice2: "<script
   // },
   
   // },  
