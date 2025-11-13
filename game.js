@@ -34,7 +34,6 @@ let questions = [];
   // {
   //   question:
   //     "what is the correct syntax for refering to an external script called 'xxx.js'?",
-  //   choice1:
   // },
   
   // },  
